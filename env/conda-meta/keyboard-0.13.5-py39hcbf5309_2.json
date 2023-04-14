@@ -1,0 +1,358 @@
+{
+  "build": "py39hcbf5309_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.9,<3.10.0a0",
+    "python_abi 3.9.* *_cp39"
+  ],
+  "extracted_package_dir": "C:\\Users\\emrek\\miniconda3\\pkgs\\keyboard-0.13.5-py39hcbf5309_2",
+  "features": "",
+  "files": [
+    "Lib/site-packages/keyboard-0.13.5.dist-info/INSTALLER",
+    "Lib/site-packages/keyboard-0.13.5.dist-info/LICENSE.txt",
+    "Lib/site-packages/keyboard-0.13.5.dist-info/METADATA",
+    "Lib/site-packages/keyboard-0.13.5.dist-info/RECORD",
+    "Lib/site-packages/keyboard-0.13.5.dist-info/REQUESTED",
+    "Lib/site-packages/keyboard-0.13.5.dist-info/WHEEL",
+    "Lib/site-packages/keyboard-0.13.5.dist-info/direct_url.json",
+    "Lib/site-packages/keyboard-0.13.5.dist-info/top_level.txt",
+    "Lib/site-packages/keyboard/__init__.py",
+    "Lib/site-packages/keyboard/__main__.py",
+    "Lib/site-packages/keyboard/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/keyboard/__pycache__/__main__.cpython-39.pyc",
+    "Lib/site-packages/keyboard/__pycache__/_canonical_names.cpython-39.pyc",
+    "Lib/site-packages/keyboard/__pycache__/_darwinkeyboard.cpython-39.pyc",
+    "Lib/site-packages/keyboard/__pycache__/_darwinmouse.cpython-39.pyc",
+    "Lib/site-packages/keyboard/__pycache__/_generic.cpython-39.pyc",
+    "Lib/site-packages/keyboard/__pycache__/_keyboard_event.cpython-39.pyc",
+    "Lib/site-packages/keyboard/__pycache__/_keyboard_tests.cpython-39.pyc",
+    "Lib/site-packages/keyboard/__pycache__/_mouse_event.cpython-39.pyc",
+    "Lib/site-packages/keyboard/__pycache__/_mouse_tests.cpython-39.pyc",
+    "Lib/site-packages/keyboard/__pycache__/_nixcommon.cpython-39.pyc",
+    "Lib/site-packages/keyboard/__pycache__/_nixkeyboard.cpython-39.pyc",
+    "Lib/site-packages/keyboard/__pycache__/_nixmouse.cpython-39.pyc",
+    "Lib/site-packages/keyboard/__pycache__/_winkeyboard.cpython-39.pyc",
+    "Lib/site-packages/keyboard/__pycache__/_winmouse.cpython-39.pyc",
+    "Lib/site-packages/keyboard/__pycache__/mouse.cpython-39.pyc",
+    "Lib/site-packages/keyboard/_canonical_names.py",
+    "Lib/site-packages/keyboard/_darwinkeyboard.py",
+    "Lib/site-packages/keyboard/_darwinmouse.py",
+    "Lib/site-packages/keyboard/_generic.py",
+    "Lib/site-packages/keyboard/_keyboard_event.py",
+    "Lib/site-packages/keyboard/_keyboard_tests.py",
+    "Lib/site-packages/keyboard/_mouse_event.py",
+    "Lib/site-packages/keyboard/_mouse_tests.py",
+    "Lib/site-packages/keyboard/_nixcommon.py",
+    "Lib/site-packages/keyboard/_nixkeyboard.py",
+    "Lib/site-packages/keyboard/_nixmouse.py",
+    "Lib/site-packages/keyboard/_winkeyboard.py",
+    "Lib/site-packages/keyboard/_winmouse.py",
+    "Lib/site-packages/keyboard/mouse.py",
+    ".nonadmin"
+  ],
+  "fn": "keyboard-0.13.5-py39hcbf5309_2.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\emrek\\miniconda3\\pkgs\\keyboard-0.13.5-py39hcbf5309_2",
+    "type": 1
+  },
+  "md5": "626aedf30b867b8b66f213e31fe6a810",
+  "name": "keyboard",
+  "package_tarball_full_path": "C:\\Users\\emrek\\miniconda3\\pkgs\\keyboard-0.13.5-py39hcbf5309_2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/keyboard-0.13.5.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/keyboard-0.13.5.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "2bf14a525555d05a801c2d2c28901504fb76abee7c2d7ebfb4cfc7508d7df0f7",
+        "sha256_in_prefix": "2bf14a525555d05a801c2d2c28901504fb76abee7c2d7ebfb4cfc7508d7df0f7",
+        "size_in_bytes": 1077
+      },
+      {
+        "_path": "Lib/site-packages/keyboard-0.13.5.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "7f90d8e394502135ecc91c925d1b8ed0a3117d541819206afebeec2a73373f8a",
+        "sha256_in_prefix": "7f90d8e394502135ecc91c925d1b8ed0a3117d541819206afebeec2a73373f8a",
+        "size_in_bytes": 3961
+      },
+      {
+        "_path": "Lib/site-packages/keyboard-0.13.5.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "a925438cdae2536469d88550e5cc9413613282647d165ab00efe4e675e4adc82",
+        "sha256_in_prefix": "a925438cdae2536469d88550e5cc9413613282647d165ab00efe4e675e4adc82",
+        "size_in_bytes": 2801
+      },
+      {
+        "_path": "Lib/site-packages/keyboard-0.13.5.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/keyboard-0.13.5.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "sha256_in_prefix": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "Lib/site-packages/keyboard-0.13.5.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "d460a6f8184e4a1cd7f834758a73244c0f4cb8f930930799a5ae8daa372f7f5f",
+        "sha256_in_prefix": "d460a6f8184e4a1cd7f834758a73244c0f4cb8f930930799a5ae8daa372f7f5f",
+        "size_in_bytes": 69
+      },
+      {
+        "_path": "Lib/site-packages/keyboard-0.13.5.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "739c331ab0ea0901b55934c09f19881ea51636f8cf47d1354cbbeb21fa7313e1",
+        "sha256_in_prefix": "739c331ab0ea0901b55934c09f19881ea51636f8cf47d1354cbbeb21fa7313e1",
+        "size_in_bytes": 9
+      },
+      {
+        "_path": "Lib/site-packages/keyboard/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "64d7991728251c01f64bc4797d010a4987ad333800af4f85f85f4a5011fdaf81",
+        "sha256_in_prefix": "64d7991728251c01f64bc4797d010a4987ad333800af4f85f85f4a5011fdaf81",
+        "size_in_bytes": 43578
+      },
+      {
+        "_path": "Lib/site-packages/keyboard/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "853e50422144299ed4f74d3d3b1d0930e35e38de2fce11f04bb5fe279294dfc3",
+        "sha256_in_prefix": "853e50422144299ed4f74d3d3b1d0930e35e38de2fce11f04bb5fe279294dfc3",
+        "size_in_bytes": 378
+      },
+      {
+        "_path": "Lib/site-packages/keyboard/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "eda633f6eb87af6f08562e2912d0e676db07731bd42ac30a4e51c6930bd3df3d",
+        "sha256_in_prefix": "eda633f6eb87af6f08562e2912d0e676db07731bd42ac30a4e51c6930bd3df3d",
+        "size_in_bytes": 38803
+      },
+      {
+        "_path": "Lib/site-packages/keyboard/__pycache__/__main__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "a400ff5281b0f5dc9eb06733ed787c52920efc2469e7c2dc5662c4a2c5749660",
+        "sha256_in_prefix": "a400ff5281b0f5dc9eb06733ed787c52920efc2469e7c2dc5662c4a2c5749660",
+        "size_in_bytes": 754
+      },
+      {
+        "_path": "Lib/site-packages/keyboard/__pycache__/_canonical_names.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "f56d29054090814302c2adb1fc0405319f315cc634080e5575fec28e75069ea4",
+        "sha256_in_prefix": "f56d29054090814302c2adb1fc0405319f315cc634080e5575fec28e75069ea4",
+        "size_in_bytes": 28639
+      },
+      {
+        "_path": "Lib/site-packages/keyboard/__pycache__/_darwinkeyboard.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "aa17996821f8dbcc41e07a7f63786b2ad6007a08f8ff8b4433e2e39f2f909bb0",
+        "sha256_in_prefix": "aa17996821f8dbcc41e07a7f63786b2ad6007a08f8ff8b4433e2e39f2f909bb0",
+        "size_in_bytes": 11417
+      },
+      {
+        "_path": "Lib/site-packages/keyboard/__pycache__/_darwinmouse.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "c9f7cf84411c8b9ed6ed709b34a71f85c367d276e80c47fab69c38069bb0d03a",
+        "sha256_in_prefix": "c9f7cf84411c8b9ed6ed709b34a71f85c367d276e80c47fab69c38069bb0d03a",
+        "size_in_bytes": 5507
+      },
+      {
+        "_path": "Lib/site-packages/keyboard/__pycache__/_generic.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "a519ae1864e171bd6df6fcb42b8e307179ae05a061c505cee207a07443cd833a",
+        "sha256_in_prefix": "a519ae1864e171bd6df6fcb42b8e307179ae05a061c505cee207a07443cd833a",
+        "size_in_bytes": 2480
+      },
+      {
+        "_path": "Lib/site-packages/keyboard/__pycache__/_keyboard_event.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "fcf8489f5a62831a7a27f1eedb3eaa0745ec440a21eaf6ca7a9ef4c3e84a3176",
+        "sha256_in_prefix": "fcf8489f5a62831a7a27f1eedb3eaa0745ec440a21eaf6ca7a9ef4c3e84a3176",
+        "size_in_bytes": 1834
+      },
+      {
+        "_path": "Lib/site-packages/keyboard/__pycache__/_keyboard_tests.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "483c36dfc8ba74f5c8b628899744b1e8dd0b1986c8d645a6b90dabd97fa926e6",
+        "sha256_in_prefix": "483c36dfc8ba74f5c8b628899744b1e8dd0b1986c8d645a6b90dabd97fa926e6",
+        "size_in_bytes": 51040
+      },
+      {
+        "_path": "Lib/site-packages/keyboard/__pycache__/_mouse_event.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "89aaf117ca29d740105f6375d5cefd579af46e88ddcf9fb8e0efbedad8e339c4",
+        "sha256_in_prefix": "89aaf117ca29d740105f6375d5cefd579af46e88ddcf9fb8e0efbedad8e339c4",
+        "size_in_bytes": 549
+      },
+      {
+        "_path": "Lib/site-packages/keyboard/__pycache__/_mouse_tests.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "1bf30923cacb9e856ba0c55d3925388943c00bfb8378bbd5bf6ee0ab3a0b443f",
+        "sha256_in_prefix": "1bf30923cacb9e856ba0c55d3925388943c00bfb8378bbd5bf6ee0ab3a0b443f",
+        "size_in_bytes": 9582
+      },
+      {
+        "_path": "Lib/site-packages/keyboard/__pycache__/_nixcommon.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "95b8b707e4e864d98e0f51668d2c4c6c414c168da6c355490a7fcf657654c12a",
+        "sha256_in_prefix": "95b8b707e4e864d98e0f51668d2c4c6c414c168da6c355490a7fcf657654c12a",
+        "size_in_bytes": 5697
+      },
+      {
+        "_path": "Lib/site-packages/keyboard/__pycache__/_nixkeyboard.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "e5b1911af2d4b2200e9806c9a7a1020bfb454595d2edbeb96e1e90252b137863",
+        "sha256_in_prefix": "e5b1911af2d4b2200e9806c9a7a1020bfb454595d2edbeb96e1e90252b137863",
+        "size_in_bytes": 4883
+      },
+      {
+        "_path": "Lib/site-packages/keyboard/__pycache__/_nixmouse.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "7b656beceeb45eab3c8b73afa118ca2a622a7eead59e47107586994f399e0505",
+        "sha256_in_prefix": "7b656beceeb45eab3c8b73afa118ca2a622a7eead59e47107586994f399e0505",
+        "size_in_bytes": 3482
+      },
+      {
+        "_path": "Lib/site-packages/keyboard/__pycache__/_winkeyboard.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "ee2854235166042c038beaf86b87c1b5a6bd65e73f3b3ef8fe73669700222287",
+        "sha256_in_prefix": "ee2854235166042c038beaf86b87c1b5a6bd65e73f3b3ef8fe73669700222287",
+        "size_in_bytes": 14293
+      },
+      {
+        "_path": "Lib/site-packages/keyboard/__pycache__/_winmouse.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "911178f07e0084bf1c567a7fcf9fd6871033bd91b80d45f6eacf23ea4c92bd7d",
+        "sha256_in_prefix": "911178f07e0084bf1c567a7fcf9fd6871033bd91b80d45f6eacf23ea4c92bd7d",
+        "size_in_bytes": 5220
+      },
+      {
+        "_path": "Lib/site-packages/keyboard/__pycache__/mouse.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "8f7939b89bc6e1b36f9fb5c8a232b316274e3e93a9728e278328d233b7967354",
+        "sha256_in_prefix": "8f7939b89bc6e1b36f9fb5c8a232b316274e3e93a9728e278328d233b7967354",
+        "size_in_bytes": 8254
+      },
+      {
+        "_path": "Lib/site-packages/keyboard/_canonical_names.py",
+        "path_type": "hardlink",
+        "sha256": "fd5ecaf65985e73d1e31b74c1ebf39296a04fd20bbf73a1e61f601de7f75e291",
+        "sha256_in_prefix": "fd5ecaf65985e73d1e31b74c1ebf39296a04fd20bbf73a1e61f601de7f75e291",
+        "size_in_bytes": 29474
+      },
+      {
+        "_path": "Lib/site-packages/keyboard/_darwinkeyboard.py",
+        "path_type": "hardlink",
+        "sha256": "9e60cf94c3ccda21398a8649a597f8d062607455ad6bfc4a9dbc08bf779fcc03",
+        "sha256_in_prefix": "9e60cf94c3ccda21398a8649a597f8d062607455ad6bfc4a9dbc08bf779fcc03",
+        "size_in_bytes": 18124
+      },
+      {
+        "_path": "Lib/site-packages/keyboard/_darwinmouse.py",
+        "path_type": "hardlink",
+        "sha256": "6280f64661849c2a29b652a7f536f383793da4156ca2c7adc71439168ddf6fc1",
+        "sha256_in_prefix": "6280f64661849c2a29b652a7f536f383793da4156ca2c7adc71439168ddf6fc1",
+        "size_in_bytes": 6515
+      },
+      {
+        "_path": "Lib/site-packages/keyboard/_generic.py",
+        "path_type": "hardlink",
+        "sha256": "0cc07413b49ce17be718bffb07d9836ca8a81a03122148b00a4b86575bc34eb6",
+        "sha256_in_prefix": "0cc07413b49ce17be718bffb07d9836ca8a81a03122148b00a4b86575bc34eb6",
+        "size_in_bytes": 2176
+      },
+      {
+        "_path": "Lib/site-packages/keyboard/_keyboard_event.py",
+        "path_type": "hardlink",
+        "sha256": "4a9b27dbcf936efe747c607c601555bf375a60fdd077c0c327f387acc96db243",
+        "sha256_in_prefix": "4a9b27dbcf936efe747c607c601555bf375a60fdd077c0c327f387acc96db243",
+        "size_in_bytes": 1630
+      },
+      {
+        "_path": "Lib/site-packages/keyboard/_keyboard_tests.py",
+        "path_type": "hardlink",
+        "sha256": "4cab0d93f6441867bb4416f8f12669f501ba97d6b433f15e43fbf2ad3438c7d7",
+        "sha256_in_prefix": "4cab0d93f6441867bb4416f8f12669f501ba97d6b433f15e43fbf2ad3438c7d7",
+        "size_in_bytes": 36830
+      },
+      {
+        "_path": "Lib/site-packages/keyboard/_mouse_event.py",
+        "path_type": "hardlink",
+        "sha256": "cd14063ba33a9db03e8ef848d32cf81f3bd035c49c178f0f67d8917a07135634",
+        "sha256_in_prefix": "cd14063ba33a9db03e8ef848d32cf81f3bd035c49c178f0f67d8917a07135634",
+        "size_in_bytes": 422
+      },
+      {
+        "_path": "Lib/site-packages/keyboard/_mouse_tests.py",
+        "path_type": "hardlink",
+        "sha256": "8de5cc026f0d0a7335c5fa0c69c7e3d11aaf7acf19b3b99e8591d3f1cd3079ac",
+        "sha256_in_prefix": "8de5cc026f0d0a7335c5fa0c69c7e3d11aaf7acf19b3b99e8591d3f1cd3079ac",
+        "size_in_bytes": 10014
+      },
+      {
+        "_path": "Lib/site-packages/keyboard/_nixcommon.py",
+        "path_type": "hardlink",
+        "sha256": "58bcccce96fb481d375a9a21ce887805b2c165932b7bf34729f46b45d8e16ff9",
+        "sha256_in_prefix": "58bcccce96fb481d375a9a21ce887805b2c165932b7bf34729f46b45d8e16ff9",
+        "size_in_bytes": 6053
+      },
+      {
+        "_path": "Lib/site-packages/keyboard/_nixkeyboard.py",
+        "path_type": "hardlink",
+        "sha256": "8c19f0abec9535bf63ebb3fd3a9791ed606dd49eb8f7d556fd489adc50c5450a",
+        "sha256_in_prefix": "8c19f0abec9535bf63ebb3fd3a9791ed606dd49eb8f7d556fd489adc50c5450a",
+        "size_in_bytes": 5882
+      },
+      {
+        "_path": "Lib/site-packages/keyboard/_nixmouse.py",
+        "path_type": "hardlink",
+        "sha256": "ae07315b5634c658db93f2e3b6a734f0f2def45f7f8c2922fa8414cfe2ef1dc2",
+        "sha256_in_prefix": "ae07315b5634c658db93f2e3b6a734f0f2def45f7f8c2922fa8414cfe2ef1dc2",
+        "size_in_bytes": 3518
+      },
+      {
+        "_path": "Lib/site-packages/keyboard/_winkeyboard.py",
+        "path_type": "hardlink",
+        "sha256": "d774dc4b6dc543d70b1fa21422e3c6dad73ce37e83aa319f428d35feca4311a4",
+        "sha256_in_prefix": "d774dc4b6dc543d70b1fa21422e3c6dad73ce37e83aa319f428d35feca4311a4",
+        "size_in_bytes": 20607
+      },
+      {
+        "_path": "Lib/site-packages/keyboard/_winmouse.py",
+        "path_type": "hardlink",
+        "sha256": "ffcb788c3967551a9e2abd07bed4dbbe70fcc701259a9185b6a3a565b2006f03",
+        "sha256_in_prefix": "ffcb788c3967551a9e2abd07bed4dbbe70fcc701259a9185b6a3a565b2006f03",
+        "size_in_bytes": 5817
+      },
+      {
+        "_path": "Lib/site-packages/keyboard/mouse.py",
+        "path_type": "hardlink",
+        "sha256": "12ae74c3a427c98006889fd8ec446653e8d09583bb353d1a48532447e167c277",
+        "sha256_in_prefix": "12ae74c3a427c98006889fd8ec446653e8d09583bb353d1a48532447e167c277",
+        "size_in_bytes": 7639
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "keyboard==0.13.5=py39hcbf5309_2",
+  "sha256": "3de3c98087a6eb9efdadc09dab89daa4df7173d0e4e1a54fe618fd85fadbfbc1",
+  "size": 106514,
+  "subdir": "win-64",
+  "timestamp": 1667261745928,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/keyboard-0.13.5-py39hcbf5309_2.tar.bz2",
+  "version": "0.13.5"
+}
